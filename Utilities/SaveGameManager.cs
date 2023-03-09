@@ -30,7 +30,7 @@ public class SaveGameManager : MonoBehaviour
     {
         // Save the current game state
         currentSaveData.currentLevel = LevelManager.currentLevel;
-        currentSaveData.health = Player.health;
+        currentSaveData.health = PlayerAttributes.health;
         currentSaveData.inventory = InventoryManager.GetInventory();
 
         // Serialize the data to binary format
