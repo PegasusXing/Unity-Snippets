@@ -1,6 +1,5 @@
 # Unity-Snippets
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EUnity%3C%2Ftitle%3E%3Cpath%20d%3D%22m12.9288%204.2939%203.7997%202.1929c.1366.077.1415.2905%200%20.3675l-4.515%202.6076a.4192.4192%200%200%201-.4246%200L7.274%206.8543c-.139-.0745-.1415-.293%200-.3675l3.7972-2.193V0L1.3758%205.5977V16.793l3.7177-2.1456v-4.3858c-.0025-.1565.1813-.2682.318-.1838l4.5148%202.6076a.4252.4252%200%200%201%20.2136.3676v5.2127c.0025.1565-.1813.2682-.3179.1838l-3.7996-2.1929-3.7178%202.1457L12%2024l9.6954-5.5977-3.7178-2.1457-3.7996%202.1929c-.1341.082-.3229-.0248-.3179-.1838V13.053c0-.1565.087-.2956.2136-.3676l4.5149-2.6076c.134-.082.3228.0224.3179.1838v4.3858l3.7177%202.1456V5.5977L12.9288%200Z%22%2F%3E%3C%2Fsvg%3E)
-
+![Static Badge](https://img.shields.io/badge/Hello)
 
 Unity-Snippets is a repository that contains a collection of useful code snippets and scripts for Unity game development. These snippets cover a range of topics such as player movement, camera control, UI elements, and more. The purpose of this repository is to provide myself and fellow developers with a quick and easy way to implement common functionality in their Unity projects. Whether you're a beginner or an experienced developer, Unity-Snippets can help you save time and effort by providing you with pre-written code that you can use and modify as needed.
